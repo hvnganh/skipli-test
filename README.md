@@ -1,18 +1,19 @@
 ### 1. User screen:
-![1](https://user-images.githubusercontent.com/102368559/216986173-7d3375f5-3fb1-4dff-9f05-b9dc7e0ca7a1.png)
+![1](https://user-images.githubusercontent.com/102368559/216988182-07d03e02-1ff7-4b9e-9224-26395007604f.png)
 
 ### 2. User input phone number to receive access code:
-![2](https://user-images.githubusercontent.com/102368559/216986259-55d28360-3484-4d84-a26d-8826eee98413.png)
+![2](https://user-images.githubusercontent.com/102368559/216988316-fc007a8c-f2f8-431c-8213-91502319df58.png)
 
 ### 3. Check the message sent from Twilio:
 - The body message will attach the access code
-![3](https://user-images.githubusercontent.com/102368559/216986274-10b07a98-8e7f-4ccf-863a-00aeacbb84f1.png)
+![3](https://user-images.githubusercontent.com/102368559/216988360-f29fc447-4598-4864-8819-22913d50729e.png)
 
 ### 4. Stored phone number & access code in Firestore:
-![4](https://user-images.githubusercontent.com/102368559/216986291-85296111-2de5-40a6-b660-801381db36ea.png)
+![4](https://user-images.githubusercontent.com/102368559/216988396-00764e2e-dbfd-4341-9878-b6af6893024a.png)
 
 ### 5. User input the access code to login:
-![5](https://user-images.githubusercontent.com/102368559/216986307-7d5ca722-5964-45bd-9fe7-d7e4f1f073da.png)
+![5](https://user-images.githubusercontent.com/102368559/216988423-502caa0f-2bde-4f88-bd83-141344a0bc3f.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
