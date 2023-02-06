@@ -14,6 +14,12 @@
 ### 5. User input the access code to login:
 ![5](https://user-images.githubusercontent.com/102368559/216988423-502caa0f-2bde-4f88-bd83-141344a0bc3f.png)
 
+### Technical Appoarch:
+![flow](https://user-images.githubusercontent.com/102368559/216989646-825431a3-8e82-47b1-8972-8b719730a987.png)
+
+- Happy case (User): Login screen -> Input phone number -> Input access code -> Login successfully.
+- TODO in this flow: Validate input field, optimize backend flow, CSS
+
 ## Available Scripts
 
 In the project directory, you can run:
